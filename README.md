@@ -1,2 +1,3 @@
-# ---apollo
-五次多项式--apollo
+ubuntu 22.04上运行
+需要cmake构建
+
